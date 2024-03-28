@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭　I'm Naoya Miyaguchi and I work as a Security Engineer. 🤤
+🔭I'm Naoya Miyaguchi and I work as a Security Engineer.
 
 Here is my CVEs...
 
