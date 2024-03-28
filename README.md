@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| CVE | CWE |　CVSSv3 |
+| :---: | :---: | :---: |
+CVE-2021-20672 | CWE-79 | 4.8
+CVE-2021-20672 | CWE-79 | 6.1
+CVE-2023-47215 | CWE-79 | 5.4
+CVE-2023-49779 | CWE-79 | 5.4
+CVE-2023-49598 | CWE-79 | 5.4
+CVE-2023-49807 | CWE-79 | 5.4
+CVE-2023-50175 | CWE-79 | 5.4
+CVE-2024-23180 | CWE-20 | 3.5
