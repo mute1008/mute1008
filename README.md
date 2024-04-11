@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<summary> 🌱 Here is my CVEs </summary>
+<summary> Here is my CVEs... </summary>
 <br>
 
 | CVE | CWE |　CVSSv3 |
