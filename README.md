@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 🔭 I'm Naoya Miyaguchi and I work as a Security Engineer. I'm a big fan of motorcycle.
 
-Here is my CVEs...
+<details>
+
+<summary> 🌱 Here is my CVEs </summary>
+<br>
 
 | CVE | CWE |　CVSSv3 |
 | :---: | :---: | :---: |
@@ -29,3 +32,5 @@ CVE-2023-49598 | CWE-79 | 5.4
 CVE-2023-47215 | CWE-79 | 5.4
 CVE-2021-20673 | CWE-79 | 4.8
 CVE-2021-20672 | CWE-79 | 6.1
+
+</details>
